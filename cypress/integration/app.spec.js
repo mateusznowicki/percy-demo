@@ -9,6 +9,6 @@ context("App", () => {
 
   it("should gen snapshot", () => {
     // Generate image snapshot using Percy
-    cy.percySnapshot();
+    cy.percySnapshot('name test', { widths: [768, 992, 1200] });
   });
 });
