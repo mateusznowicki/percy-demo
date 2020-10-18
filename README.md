@@ -1,3 +1,6 @@
+
+## Clone of: https://github.com/coryhouse/percy-demo
+
 # Percy Demo
 
 This project showcases using [Percy](https://percy.io/) for automated image-based tests.
