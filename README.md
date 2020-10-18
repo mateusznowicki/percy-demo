@@ -3,7 +3,7 @@
 This project showcases using [Percy](https://percy.io/) for automated image-based tests.
 
 ## Goal
-
+k
 Run 3 types of tests via CI:
 
 1. Jest
