@@ -21,7 +21,7 @@ npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## How was this built?
+## How was this built?k
 
 1. Run create-react-app: `npx create-react-app percy-demo`
 1. Add Storybook: `npx -p @storybook/cli sb init`
