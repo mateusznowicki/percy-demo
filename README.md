@@ -6,7 +6,7 @@
 This project showcases using [Percy](https://percy.io/) for automated image-based tests.
 
 ## Goal
-
+k
 Run 3 types of tests via CI:
 
 1. Jest
@@ -16,7 +16,7 @@ Run 3 types of tests via CI:
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/Bitnative-LLC/percy-demo)
 
 ## Quick Start
-
+ knkn
 ```
 npm i
 npm start
